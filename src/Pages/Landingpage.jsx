@@ -58,6 +58,7 @@ const Landingpage = () => {
           What We <span className="bg-[#670F10] px-1">Offer?</span>
         </h1>
         <img
+          className="w-full"
           src={section3}
           alt=""
           draggable="false"
